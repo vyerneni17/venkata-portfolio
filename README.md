@@ -1,5 +1,6 @@
 # venkata-portfolio
-Code for my personal portfolio page
+
+### My personal portfolio page
 
 This project is created using basics of HTML, CSS and Javascipt. You can clone this project using the following commands,
 
