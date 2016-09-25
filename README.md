@@ -9,7 +9,7 @@ For SSH: **git clone git@github.com:vyerneni17/venkata-portfolio.git**
 
 You can run the project from your local machine by launching the index.html file. 
 
-This is a public project and if you're interested to make changes to the repo, please follow the following instructions:
+This is a public project and if you're interested to make changes to the repo, please follow the below instructions:
 
 1. Clone the project using: git clone
 2. Create a new local branch: git branch -b branch-name
