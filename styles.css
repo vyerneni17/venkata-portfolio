@@ -1,0 +1,74 @@
+.container{
+
+}
+
+.img-circle{
+    background-color: #D6DBDF;
+    width: absolute;
+    height: 350px;
+    padding: 10px 10px 10px 10px;
+    margin-top: 20px;
+}
+
+.img-text{
+    width:150px;
+    height: 50px;
+    background-color: #D6DBDF;
+    font-family: monospace;
+    font-size: 10px;
+}
+
+.container-fluid{
+    font-family: Monospace;
+}
+
+#sub1, #sub3{
+    color: #28B463;
+    background-color: black;
+    height: 50px;
+}
+
+#sub2, #sub4, #heading{
+    background-color: #28B463;
+    height: 50px;
+}
+
+#heading {
+    font-family: Tahoma;
+    height: 70px;
+    text-align: center;
+}
+
+.primary, .third{
+    background-color: #D6DBDF;
+    height: 150px;
+    opacity: 0.9;
+}
+
+.secondary, .fourth{
+    background-color:#D6DBDF;
+    height: 150px;
+}
+
+.footer-container{
+    background-color: black;
+    height: 70px;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #28B463;
+}
+
+#social{
+    color: #28B463;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.fa{
+    font-size: 32px;
+}
+
+.fa-github, .fa-google, .fa-linkedin, .fa-facebook{
+    margin-right: 20px;
+    margin-top: 5px;
+}
